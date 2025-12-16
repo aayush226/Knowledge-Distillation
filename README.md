@@ -17,7 +17,6 @@ We evaluate across three labeled-data regimes: **100% / 10% / 1%** of the SST-2 
 
 ## Repo contents
 - `kd_sst2_colab.ipynb` — **main Colab notebook** (end-to-end: data → train → eval → plots)
-- `DL_Final_project.pdf` — final write-up
 
 ### What you can configure in the notebook
 - `teacher_name`: `bert-base-uncased`
